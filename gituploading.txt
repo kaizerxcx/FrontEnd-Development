@@ -1,0 +1,47 @@
+git init
+
+git status
+
+git add .
+
+git commit -m "some meaningful message goes here"
+
+git remote add origin https://github.com/your-user-name/name-that-you-gave-to-repository.git 
+
+git pull origin main
+
+
+git push -u origin main
+or git push origin <your_branch_name / main> --force
+
+
+git push
+
+
+
+
+
+
+
+
+
+======from github==============
+
+
+
+echo "# ddd" >> README.md
+git init
+git add README.md 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kaizerxcx/ddd.git
+git push -u origin main
+git push -u origin main --force            
+
+
+
+
+
+
+kaizer@LAPTOP-HQ7DPK62 MINGW64 ~/Desktop/OctoPy-Web (master|MERGING)
+$ git checkout master -- OctoPy/user/__pycache__/views.cpython-38.pyc
