@@ -11,6 +11,11 @@ body {
   min-height: 100vh;
 }
 
+.container {
+  display: grid;
+  grid-template-columns: repeat(2,1fr 2fr);
+}
+
 .box {
   background-color: #000;
   color: #fff;

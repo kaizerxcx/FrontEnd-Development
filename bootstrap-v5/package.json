@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-v5",
+  "version": "1.0.0",
+  "description": "learning boostrap version v5",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "boostrap",
+    "Boostrap",
+    "Boostrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn",
+    "sass\u001b[D\u001b[D\u001b[D\u001bn\u001b[-"
+  ],
+  "author": "kaizer",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.75.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "autoprefixer": "^10.4.19",
+    "bootstrap": "^5.3.3"
+  }
+}
